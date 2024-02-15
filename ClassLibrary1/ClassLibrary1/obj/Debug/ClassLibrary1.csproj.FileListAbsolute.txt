@@ -1,0 +1,242 @@
+C:\Users\Admin\Documents\Visual Studio 2017\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Admin\Documents\Visual Studio 2017\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Chonthep.resources
+C:\Users\Admin\Documents\Visual Studio 2017\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Tinhtoan.resources
+C:\Users\Admin\Documents\Visual Studio 2017\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll.licenses
+C:\Users\Admin\Documents\Visual Studio 2017\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Admin\Documents\Visual Studio 2017\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Chonthep.resources
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Tinhtoan.resources
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.cache
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll.licenses
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.addin
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPIUI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPIFoundation.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RevitDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\PersistenceDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\UtilityAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\APIDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\GraphicsAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\EssentialsDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\GeomUtilAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\FamilyDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\DetailDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\HostObjDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\SiteDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\SculptingDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\StructuralDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\InterfaceAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RebarDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\MassingDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\AssemblyDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\DPartDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\NumberingDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\StairRampDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\MaterialDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\DBManagedServices.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\AdWindows.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAddInUtility.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\APIInterop.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\UIFramework.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\AddInManager.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RevitUIAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\DesktopMFCAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\APIUIAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RevitMFCAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\EssentialsUIAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\DetailUIAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\UIFrameworkServices.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPI.xml
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPIUI.xml
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom4 - đức hải\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Chonthep.resources
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.cache
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll.licenses
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.addin
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPIUI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPIFoundation.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\PersistenceDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\UtilityAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\APIDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\GraphicsAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\EssentialsDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\GeomUtilAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\FamilyDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\DetailDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\HostObjDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\SiteDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\SculptingDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\StructuralDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\InterfaceAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RebarDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\MassingDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\AssemblyDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\DPartDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\NumberingDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\StairRampDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\MaterialDBAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\DBManagedServices.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\AdWindows.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAddInUtility.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\APIInterop.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\UIFramework.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\AddInManager.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitUIAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\DesktopMFCAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\APIUIAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitMFCAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\EssentialsUIAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\DetailUIAPI.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\UIFrameworkServices.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPI.xml
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPIUI.xml
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\tuan2\OneDrive\Desktop\Revit Api\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.FormMain.resources
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.addin
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPIFoundation.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\PersistenceDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\UtilityAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\APIDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\GraphicsAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ElementGroupDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\EssentialsDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\GeomUtilAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\FamilyDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\DetailDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ArrayElemsDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\BuildingSystemsDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\HostObjDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\SiteDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\SculptingDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\StructuralDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\InterfaceAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\InterfaceUtilAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RebarDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\MassingDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\AssemblyDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\DPartDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\NumberingDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\PointCloudAccessAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\StairRampDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\AnalysisAppsDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\MaterialDBAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\DBManagedServices.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\AdWindows.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAddInUtility.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\APIInterop.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\UIFramework.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\AddInManager.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitUIAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\BuildingSystemsUIAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\DesktopMFCAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\APIUIAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitMFCAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\EssentialsUIAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\DetailUIAPI.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\UIFrameworkServices.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPI.xml
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPIUI.xml
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\de-DE\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\en-GB\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\en-US\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\es-ES\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\it-IT\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Chonthep.resources
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.FormMain.resources
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.cache
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll.licenses
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Minh\Trwong\nhom2- tinh dam - hữu trung\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
