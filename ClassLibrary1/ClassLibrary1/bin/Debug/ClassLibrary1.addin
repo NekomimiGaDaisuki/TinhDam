@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>ClassLibrary1</Name>
+		<FullClassName>ClassLibrary1.ClassMain</FullClassName>
+		<Text>Nhom2</Text>
+		<Description>Show Hello World.</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>ClassLibrary1.dll</Assembly>
+		<AddInId>955FE86A-EEDE-496C-A1A0-6D4147756FFA</AddInId>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
